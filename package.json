@@ -1,8 +1,9 @@
 {
   "name": "conversion-radix",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "进制转换",
   "main": "./lib/index.js",
+  "types": "./index.d.ts",
   "scripts": {
     "build": "rollup -c"
   },
